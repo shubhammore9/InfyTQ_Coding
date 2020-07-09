@@ -1,0 +1,2 @@
+/*Maximum number of swaps will be given and an list of digits will be given. 
+We have to swap numbers to get the lowest number possible by using all digits from the list.*/
